@@ -1,8 +1,6 @@
 ## Dataset for the study "Predicting Test Results without Execution"
 
-This dataset presents the source code of the selected test cases as well as the GPT-4 prompts and their results.
-
-Selected libraries of the Python Standard Library: ast, calendar, csv, gzip, and string
+This dataset presents the source code of the selected test cases as well as the GPT-4 prompts and their results. Selected libraries of the Python Standard Library: ast, calendar, csv, gzip, and string.
 
 Selected test cases:
 
